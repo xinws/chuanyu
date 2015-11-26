@@ -12,7 +12,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 	
     <!-- 命名空间 -->
     <typeAliases>
-         <typeAlias alias="User" type="cn.chuanyu.model.User"/>
+         <typeAlias alias="User" type="cn.chuanyu.domain.User"/>
     </typeAliases>
  
     <!-- 映射map -->

@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import cn.chuanyu.model.User;
+import cn.chuanyu.domain.User;
 import cn.chuanyu.service.UserService;
 
 public class UserTest {
